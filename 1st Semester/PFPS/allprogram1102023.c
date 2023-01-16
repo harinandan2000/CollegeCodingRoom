@@ -8,8 +8,8 @@ int main()
     int choice, side, b, h, l, w;
     float area, r;
     char flag;
-    flag = 'Y';
-    while(flag == 'Y')
+    flag = 'Y','y';
+    while(flag == 'Y', 'y')
     {
         system("cls");
         printf("press 1 for squre\n");
