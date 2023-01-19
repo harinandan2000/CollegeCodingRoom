@@ -12,7 +12,7 @@ int main()
     {
         scanf("%d", &num[i]);
     }
-    printf("you array is as follows\n");
+    printf("your array is as follows\n");
     for(i=0; i<10; i++)
     {
         printf("%d\t", num[i]);
