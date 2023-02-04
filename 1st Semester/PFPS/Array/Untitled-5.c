@@ -24,11 +24,10 @@ int main()
 		for (j = 0; j < columns; j++)
 		{
 			if (i == j)
-			{
+			{   
 				trace = trace + Tra_arr[i][j];
+                printf();
 			}
-             printf("The matrix is\n :", Tra_arr[rows][columns]);
-             printf("\n");
 		}
     
 
