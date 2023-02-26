@@ -1,5 +1,5 @@
-//BInary 
-
+//Name- Harinandan paswan
+// Roll No- 22403
 #include <stdio.h>
 
 int binarySearch(int *arr, int size, int item)

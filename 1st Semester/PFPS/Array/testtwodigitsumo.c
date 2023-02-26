@@ -1,3 +1,6 @@
+//Name- Harinandan paswan
+//Roll-No- 22403
+
 #include <stdio.h>
 
 int checksum(int num)

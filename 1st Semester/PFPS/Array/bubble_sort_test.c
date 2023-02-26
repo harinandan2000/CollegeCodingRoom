@@ -1,3 +1,6 @@
+//Name- Harinandan paswan
+// Roll No- 22403
+
 #include <stdio.h>
 void printarray(int *a, int n)
 {
