@@ -9,7 +9,7 @@ int main()
     printf("Enter your name : ");
     gets(name);
     while (name[i] != '\0')
-    {
+    { 
         if (name[i] == 'a' || name[i] == 'e' || name[i] == 'i' || name[i] == 'o' || name[i] == 'u')
             vcount++;
         else if (name[i] == 'A' || name[i] == 'E' || name[i] == 'I' || name[i] == 'O' || name[i] == 'U')

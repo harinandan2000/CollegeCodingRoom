@@ -8,7 +8,7 @@ struct student
     int roll;
 } s1, *ptr = &s1;
 
-void main()
+int main()
 {
     int n;
     FILE *fp = NULL;
@@ -29,4 +29,5 @@ void main()
     scanf("%d", &ptr->age);
     fprintf(fp, "%s\t\t%s\t%d\t%d\n", ptr->name, ptr->branch, ptr->roll, (*ptr).age);
     fclose(fp);
+    return 0;
 }
