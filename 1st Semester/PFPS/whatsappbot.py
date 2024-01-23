@@ -7,5 +7,5 @@ while True:
     auto.press("enter")
     time.sleep(1) 
 
- 
+
 

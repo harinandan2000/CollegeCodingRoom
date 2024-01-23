@@ -1,13 +1,13 @@
 // Name-Harinandan Paswan
 // Reg no-22105128034
-
+// Add to Feet and Inch Using structure as function argument and return value
 #include <iostream>
 using namespace std;
 // Define a Structures to represent feet and inch
 struct distance
 {
     int feet;
-    int inch;
+    float inch;
 };
 
 // Function Add to feet and inch
